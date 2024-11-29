@@ -1,5 +1,32 @@
 # Property Pulse
 
+Project relates to [Next.js From Scratch 2024](https://www.udemy.com/course/nextjs-from-scratch) Udemy course by [Brad Traversy](https://www.udemy.com/user/brad-traversy/) and is Next.js practice.
+
+Property Pulse is a real estate [Airbnb](https://www.airbnb.com/) type rental website where users can browse, search and manage property listings.
+
+App includes following business features:
+
+- Property search
+- Property listing CRUD
+- Bookmarking and saving properties
+- Sharing property on social media
+- User authentication with Google & Next Auth
+- User authorization
+- Creating user profile with all his property listings
+- Internal messaging system
+- Maps and geocoding
+- Toast notifications
+- Photoswipe image gallery
+- Route protection
+- User profile with user listings
+- Property image upload (multiple)
+- Cloudinary integration
+- Server actions & database interaction (as database app uses Atlas which is a cloud version of MongoDB)
+- Responsive design (Tailwind)
+- Custom 404 page and loading spinners
+
+Some app pages are server rendered and some are statically generated (Next.js is used for both server side rendering and as static site generator).
+
 Project uses NPM as package manager.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
