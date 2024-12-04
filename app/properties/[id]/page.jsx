@@ -1,3 +1,5 @@
+'use client';
+
 const PropertyPage = () => {
   return <div>Property Page</div>;
 };
